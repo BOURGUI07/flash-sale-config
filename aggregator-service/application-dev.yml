@@ -1,0 +1,5 @@
+app:
+  customer-service-uri: "http://localhost:6060"
+  product-service-uri: "http://localhost:7070"
+  external-service-timeout: 3
+  greeting: Welcome to The Development Aggregator Service From The Config Server!
